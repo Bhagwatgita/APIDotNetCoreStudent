@@ -1,0 +1,14 @@
+E:\Learning_Visual_Studio\APITEST\DaoLayer\bin\Debug\netcoreapp2.1\DaoLayer.deps.json
+E:\Learning_Visual_Studio\APITEST\DaoLayer\bin\Debug\netcoreapp2.1\DaoLayer.dll
+E:\Learning_Visual_Studio\APITEST\DaoLayer\bin\Debug\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Learning_Visual_Studio\APITEST\DaoLayer\bin\Debug\netcoreapp2.1\System.Data.SqlClient.xml
+E:\Learning_Visual_Studio\APITEST\DaoLayer\obj\Debug\netcoreapp2.1\DaoLayer.csprojAssemblyReference.cache
+E:\Learning_Visual_Studio\APITEST\DaoLayer\obj\Debug\netcoreapp2.1\DaoLayer.csproj.CoreCompileInputs.cache
+E:\Learning_Visual_Studio\APITEST\DaoLayer\obj\Debug\netcoreapp2.1\DaoLayer.AssemblyInfoInputs.cache
+E:\Learning_Visual_Studio\APITEST\DaoLayer\obj\Debug\netcoreapp2.1\DaoLayer.AssemblyInfo.cs
+E:\Learning_Visual_Studio\APITEST\DaoLayer\obj\Debug\netcoreapp2.1\DaoLayer.csproj.CopyComplete
+E:\Learning_Visual_Studio\APITEST\DaoLayer\bin\Debug\netcoreapp2.1\DaoLayer.pdb
+E:\Learning_Visual_Studio\APITEST\DaoLayer\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+E:\Learning_Visual_Studio\APITEST\DaoLayer\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+E:\Learning_Visual_Studio\APITEST\DaoLayer\obj\Debug\netcoreapp2.1\DaoLayer.dll
+E:\Learning_Visual_Studio\APITEST\DaoLayer\obj\Debug\netcoreapp2.1\DaoLayer.pdb

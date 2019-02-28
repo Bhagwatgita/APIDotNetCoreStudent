@@ -1,0 +1,17 @@
+E:\Learning_Visual_Studio\APITEST\APITEST\bin\Debug\netcoreapp2.1\APITEST.deps.json
+E:\Learning_Visual_Studio\APITEST\APITEST\bin\Debug\netcoreapp2.1\APITEST.runtimeconfig.json
+E:\Learning_Visual_Studio\APITEST\APITEST\bin\Debug\netcoreapp2.1\APITEST.runtimeconfig.dev.json
+E:\Learning_Visual_Studio\APITEST\APITEST\bin\Debug\netcoreapp2.1\APITEST.dll
+E:\Learning_Visual_Studio\APITEST\APITEST\obj\Debug\netcoreapp2.1\APITEST.csprojAssemblyReference.cache
+E:\Learning_Visual_Studio\APITEST\APITEST\obj\Debug\netcoreapp2.1\APITEST.csproj.CoreCompileInputs.cache
+E:\Learning_Visual_Studio\APITEST\APITEST\obj\Debug\netcoreapp2.1\APITEST.RazorAssemblyInfo.cache
+E:\Learning_Visual_Studio\APITEST\APITEST\obj\Debug\netcoreapp2.1\APITEST.RazorAssemblyInfo.cs
+E:\Learning_Visual_Studio\APITEST\APITEST\obj\Debug\netcoreapp2.1\APITEST.AssemblyInfoInputs.cache
+E:\Learning_Visual_Studio\APITEST\APITEST\obj\Debug\netcoreapp2.1\APITEST.AssemblyInfo.cs
+E:\Learning_Visual_Studio\APITEST\APITEST\obj\Debug\netcoreapp2.1\APITEST.RazorTargetAssemblyInfo.cache
+E:\Learning_Visual_Studio\APITEST\APITEST\bin\Debug\netcoreapp2.1\APITEST.pdb
+E:\Learning_Visual_Studio\APITEST\APITEST\obj\Debug\netcoreapp2.1\APITEST.dll
+E:\Learning_Visual_Studio\APITEST\APITEST\obj\Debug\netcoreapp2.1\APITEST.pdb
+E:\Learning_Visual_Studio\APITEST\APITEST\bin\Debug\netcoreapp2.1\DaoLayer.dll
+E:\Learning_Visual_Studio\APITEST\APITEST\bin\Debug\netcoreapp2.1\DaoLayer.pdb
+E:\Learning_Visual_Studio\APITEST\APITEST\obj\Debug\netcoreapp2.1\APITEST.csproj.CopyComplete
